@@ -6,7 +6,7 @@ This project is a Python application that performs edge detection on an image us
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/username/canny-edge-detection.git
+   git clone https://github.com/mozgor19/canny-edge-detection.git
    ```
 2. Install the required libraries:
    ```bash
@@ -50,6 +50,10 @@ cv2.imshow('Edge Image', edges)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+## Sample Output
+
+![Sample Output](https://github.com/mozgor19/canny-edge-detection/blob/main/edge_output.png)
 
 ## Contributions
 
